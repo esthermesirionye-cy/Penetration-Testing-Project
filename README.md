@@ -26,17 +26,15 @@ The target domain medirozahospital.com was mapped using standard DNS and domain 
 
 *Domain Ownership Analysis:* Executed whois to identify registrant details, name servers, and domain creation timelines:
 
-Bash
-whois medirozahospital.com
 
-![WHOIS](whois%mediroza.png)
+![Whois Output](whois.mediroza.png)
 
 
 
 *DNS Mapping:* Ran nslookup to resolve domain name system records and identify target server IP addresses:
 
-Bash
-nslookup medirozahospital.com
+
+![NSLookup Output](nslookup.mediroza.png)
 
 
 *Directory Discovery:* Analyzed sitemap.xml at the site root ([https://medirozahospital.com/sitemap.xml](https://medirozahospital.com/sitemap.xml)) to identify hidden site structures and administrative navigation paths.
