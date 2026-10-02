@@ -78,6 +78,11 @@ To recover the underlying credentials:
 
 
 
+![File 2 Password Cracked](file%202%20password%20cracked.png)
+
+
+![Mediroza Patient File](mediroza%20file%202%20patient%20file.png)
+
 
 **Technical Challenges & Troubleshooting**
 
