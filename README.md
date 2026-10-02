@@ -29,7 +29,7 @@ The target domain medirozahospital.com was mapped using standard DNS and domain 
 Bash
 whois medirozahospital.com
 
-![WHOIS](whois-mediroza.png)
+![WHOIS](whois%mediroza.png)
 
 
 
