@@ -53,14 +53,13 @@ During the assessment of the administrative login portal, an input validation fl
 *Mechanism:* Using SQL injection payload bypass syntax, the password field check was commented out in the underlying database query, granting administrative privilege without a valid plaintext password.
 
 
-![SQL Injection Proof](SQL%20injection.png)
-
 
 **Step 3:** **Artifact Extraction**
 
 Once inside the administrative interface, access was established to three key protected target files containing hashed credential records.
 
 
+![SQL Injection Proof](SQL%20injection.png)
 
 
 
@@ -69,6 +68,11 @@ Once inside the administrative interface, access was established to three key pr
 To recover the underlying credentials:
 
 *Hash Identification:* Extracted hashes from the target files were processed using the Networkwalks Hash Calculator to determine algorithm type (e.g., MD5 / SHA-256).
+
+
+![Hash Calculator](mediroza.hash%20calculator.png)
+
+
 
 *Password Cracking:* The calculated hashes were passed into an offline password cracker, successfully mapping the hash strings back to cleartext passwords.
 
