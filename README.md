@@ -40,6 +40,9 @@ The target domain medirozahospital.com was mapped using standard DNS and domain 
 *Directory Discovery:* Analyzed sitemap.xml at the site root ([https://medirozahospital.com/sitemap.xml](https://medirozahospital.com/sitemap.xml)) to identify hidden site structures and administrative navigation paths.
 
 
+![Sitemap Structure](sitemap.png)
+
+
 
 **Step 2:** **Web Exploitation (Authentication Bypass)**
 
