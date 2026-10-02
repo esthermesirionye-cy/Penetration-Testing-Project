@@ -1,10 +1,6 @@
 **Technical Report:** **Security Assessment & Data Recovery Walkthrough**
-🏥 Mediroza General Hospital — Penetration Testing Report
-Black-box security assessment of a hospital web application and patient portal
 
-     
 
-📖 Project Overview
 **Project Overview**
 This project documents an end-to-end security assessment performed on medirozahospital.com. The objective was to identify host infrastructure using open-source intelligence (OSINT), uncover site endpoints, demonstrate SQL injection (SQLi) authentication bypass, perform file extractions, and decrypt password hashes to access internal records.
 
@@ -32,6 +28,8 @@ The target domain medirozahospital.com was mapped using standard DNS and domain 
 
 Bash
 whois medirozahospital.com
+
+![WHOIS](whois-mediroza.png)
 
 
 
