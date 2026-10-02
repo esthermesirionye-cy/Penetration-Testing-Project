@@ -1,4 +1,5 @@
 **Technical Report:** **Security Assessment & Data Recovery Walkthrough**
+<img width="224" height="28" alt="image" src="https://github.com/user-attachments/assets/da24c89e-dc63-4842-b537-b8d0beb3ed76" />
 
 
 **Project Overview**
